@@ -1,0 +1,12 @@
+.widefat {
+	/*margin-bottom: 0px !important;*/
+}
+
+.plugin_name {
+	font-size:14px;
+}
+.installed,
+.activated {
+	color:#339933;
+	font-size:14px;
+}
